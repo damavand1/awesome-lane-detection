@@ -27,7 +27,7 @@ Lane Detection
 
 [Recursive Video Lane Detection](https://arxiv.org/abs/2308.11106)  [github](https://github.com/dongkwonjin/RVLD)  ICCV 2023
 
-[LATR: 3D Lane Detection from Monocular Images with Transformer](https://arxiv.org/abs/2308.04583)  [github](https://github.com/JMoonr/LATR)  ICCV 2023
+[LATR: 3D Lane Detection from Monocular Images with Transformer](https://arxiv.org/abs/2308.04583)  [github](https://github.com/JMoonr/LATR)  ICCV 2023 <---------------------------------------------------------- WE ARE WORKING ON IT / OPEN IT / GITHUB REPO IS IN IT
 
 [GroupLane: End-to-End 3D Lane Detection with Channel-wise Grouping](https://arxiv.org/abs/2307.09472)
 
