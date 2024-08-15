@@ -1,3 +1,5 @@
+https://arxiv.org/abs/2404.06860 <---------------****************** 
+
 # awesome-lane-detection
 Lane Detection
 
