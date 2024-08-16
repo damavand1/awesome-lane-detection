@@ -1,4 +1,5 @@
 https://arxiv.org/abs/2404.06860 <---------------****************** 
+https://paperswithcode.com/task/lane-detection <-------------*************
 
 # awesome-lane-detection
 Lane Detection
